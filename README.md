@@ -9,6 +9,9 @@ The project mainly focus on three parts:
 
 ![Airbnb Top Performance](https://github.com/sruti-jain/Airbnb-Data-Analysis-Project/blob/master/Images/Airbnb_TopPerformers.PNG)
 
+
 ![Exploring Neighborhood relative to Location, Amenities](https://github.com/sruti-jain/Airbnb-Data-Analysis-Project/blob/master/Images/ExploringNeighborhood.PNG)
 
+
 ![Review Versus Price Analysis](https://github.com/sruti-jain/Airbnb-Data-Analysis-Project/blob/master/Images/ReviewVersusPrice.PNG)
+
